@@ -1,0 +1,11 @@
+let user = {id:1, name:'vova', age: 25, status: true, skill: 'java', height: 180, weight: 84, color: 'yellow', intelligence: 130, famous: 'creative'};
+console.log(user.id);
+console.log(user.name);
+console.log(user.age);
+console.log(user.status);
+console.log(user.skill);
+console.log(user.height);
+console.log(user.weight);
+console.log(user.color);
+console.log(user.intelligence);
+console.log(user.famous);
